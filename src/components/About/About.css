@@ -1,0 +1,23 @@
+.about{
+    color:white;
+    font-size: 30px;
+}
+
+.about-me{
+    margin: 270px 0 0 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-title{
+    color:rgb(6, 217, 158);
+    font-size: 50px;
+}
+
+.about-right{
+    margin: 20px;
+}
+
+/* .about-page{
+    overflow: hidden;
+} */
