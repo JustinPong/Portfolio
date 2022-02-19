@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.0694fd00.css",
-    "main.js": "/static/js/main.a27b8b1d.js",
-    "static/media/coding.png": "/static/media/coding.65f3692715a40b0e4ee3.png",
-    "static/media/CSS.png": "/static/media/CSS.75637854ae9526feeec9.png",
-    "static/media/Ravenous.png": "/static/media/Ravenous.bbd970a9c0979c2bbd49.png",
-    "static/media/Jammming.png": "/static/media/Jammming.1293403b796d88092ac6.png",
-    "static/media/ColmarAcademy.png": "/static/media/ColmarAcademy.6d271a173a672eb8952c.png",
-    "static/media/How-to-become-a-Full-Stack-Web-Developer--451x300.png": "/static/media/How-to-become-a-Full-Stack-Web-Developer--451x300.13f1d9e0d46b404f74d8.png",
-    "static/media/To-Do-List.png": "/static/media/To-Do-List.35e6581fad2d0b6a6901.png",
-    "static/media/HTML.png": "/static/media/HTML.cae445506dcd734ac944.png",
-    "static/media/React.png": "/static/media/React.d1d003618737e62bb2df.png",
-    "static/media/Git.png": "/static/media/Git.140fa4d62c3584333da4.png",
-    "static/media/JustinPong CV with VASK.pdf": "/static/media/JustinPong CV with VASK.3ee5fd3e4d55b3fecbd8.pdf",
-    "static/media/FindYourHat.png": "/static/media/FindYourHat.08467fab57707de75228.png",
-    "static/media/Bootstrap.png": "/static/media/Bootstrap.fd3cb129782ecd201164.png",
-    "index.html": "/index.html",
-    "main.0694fd00.css.map": "/static/css/main.0694fd00.css.map",
-    "main.a27b8b1d.js.map": "/static/js/main.a27b8b1d.js.map"
+    "main.css": "/Portfolio/static/css/main.0694fd00.css",
+    "main.js": "/Portfolio/static/js/main.758fa170.js",
+    "static/media/coding.png": "/Portfolio/static/media/coding.65f3692715a40b0e4ee3.png",
+    "static/media/CSS.png": "/Portfolio/static/media/CSS.75637854ae9526feeec9.png",
+    "static/media/Ravenous.png": "/Portfolio/static/media/Ravenous.bbd970a9c0979c2bbd49.png",
+    "static/media/Jammming.png": "/Portfolio/static/media/Jammming.1293403b796d88092ac6.png",
+    "static/media/ColmarAcademy.png": "/Portfolio/static/media/ColmarAcademy.6d271a173a672eb8952c.png",
+    "static/media/How-to-become-a-Full-Stack-Web-Developer--451x300.png": "/Portfolio/static/media/How-to-become-a-Full-Stack-Web-Developer--451x300.13f1d9e0d46b404f74d8.png",
+    "static/media/To-Do-List.png": "/Portfolio/static/media/To-Do-List.35e6581fad2d0b6a6901.png",
+    "static/media/HTML.png": "/Portfolio/static/media/HTML.cae445506dcd734ac944.png",
+    "static/media/React.png": "/Portfolio/static/media/React.d1d003618737e62bb2df.png",
+    "static/media/Git.png": "/Portfolio/static/media/Git.140fa4d62c3584333da4.png",
+    "static/media/JustinPong CV with VASK.pdf": "/Portfolio/static/media/JustinPong CV with VASK.3ee5fd3e4d55b3fecbd8.pdf",
+    "static/media/FindYourHat.png": "/Portfolio/static/media/FindYourHat.08467fab57707de75228.png",
+    "static/media/Bootstrap.png": "/Portfolio/static/media/Bootstrap.fd3cb129782ecd201164.png",
+    "index.html": "/Portfolio/index.html",
+    "main.0694fd00.css.map": "/Portfolio/static/css/main.0694fd00.css.map",
+    "main.758fa170.js.map": "/Portfolio/static/js/main.758fa170.js.map"
   },
   "entrypoints": [
     "static/css/main.0694fd00.css",
-    "static/js/main.a27b8b1d.js"
+    "static/js/main.758fa170.js"
   ]
 }
