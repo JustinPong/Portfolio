@@ -1,4 +1,48 @@
 .language-logo{
-    height: 200px;
+    height: 150px;
     margin-top: 250px;
+    margin-left: 30px;
+}
+
+/* .language-logo:hover {
+    height: 170px;
+    margin-left: 0px;
+    overflow:hidden;
+} */
+
+.skills-page {
+    display:flex;
+    flex-direction: column;
+}
+
+.skills-top{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.skills-middle{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.skills-bottom{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto;
+    font-size: 50px;
+    width: 65%;
+}
+
+.skills-title{
+    text-align: center;
+}
+
+.skills-article{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 30px;
+    color: gray;
 }

@@ -1,0 +1,43 @@
+.work-page{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-text{
+    color: gray;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+}
+
+.work-page-top{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 130px;
+    width: 60%;
+}
+
+.work-page-bottom{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 60%;
+}
+
+.work-link{
+    color: rgb(6, 217, 158);
+    text-decoration: none;
+}
+
+.work-link:hover{
+    text-decoration: underline;
+}
+
+Card.Img{
+    height: 100px;
+}
+
+.card-title{
+    font-size: 20px;
+}
