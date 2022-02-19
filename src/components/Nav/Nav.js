@@ -20,7 +20,7 @@ function Nav() {
                 <Link to="/skills" className="link">Skills</Link>
                 <Link to="/work" className="link">Work</Link>
                 <a href={Pdf} className="link">Resume</a>
-                <Link to="/contact" className="link">Contact</Link>
+                {/* <Link to="/contact" className="link">Contact</Link> */}
             </div>
         </div>
     )
