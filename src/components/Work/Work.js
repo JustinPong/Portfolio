@@ -68,7 +68,7 @@ function Work() {
                             React and API project
                         </Card.Text>
                         <a className="work-link" href="https://github.com/JustinPong/Ravenous" variant="primary">Source Code</a><br />
-                        <a className="work-link" href="https://justinpong.github.io/Ravenous/" variant="primary">Demo</a>
+                        <a className="work-link not-work" href="#" variant="primary">Demo</a>
                     </Card.Body>
                 </Card>
             </div>
