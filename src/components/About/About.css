@@ -5,7 +5,7 @@
 }
 
 .about-me{
-    margin: 270px 0 0 20px;
+    margin: 250px 0 0 20px;
     display: flex;
     justify-content: space-around;
 }
@@ -19,6 +19,19 @@
 .about-right{
     margin: auto 0;
     height: 300px;
+    animation: fadeIn linear 1s;
+    -webkit-animation: fadeIn linear 1s;
+    -moz-animation: fadeIn linear 1s;
+    -o-animation: fadeIn linear 1s;
+    -ms-animation: fadeIn linear 1s;
+}
+
+.about-left{
+    animation: fadeIn linear 1s;
+    -webkit-animation: fadeIn linear 1s;
+    -moz-animation: fadeIn linear 1s;
+    -o-animation: fadeIn linear 1s;
+    -ms-animation: fadeIn linear 1s;
 }
 
 /* .about-page{

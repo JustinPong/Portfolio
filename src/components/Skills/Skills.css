@@ -20,13 +20,11 @@
     display: flex;
     justify-content: space-around;
     margin: 0 auto;
-}
-
-.skills-middle{
-    display: flex;
-    justify-content: space-around;
-    width: 70%;
-    margin: 0 auto;
+    animation: fadeIn linear 1s;
+    -webkit-animation: fadeIn linear 1s;
+    -moz-animation: fadeIn linear 1s;
+    -o-animation: fadeIn linear 1s;
+    -ms-animation: fadeIn linear 1s;
 }
 
 .skills-bottom{
@@ -35,6 +33,11 @@
     margin: 0 auto;
     font-size: 50px;
     width: 65%;
+    animation: fadeIn linear 1s;
+    -webkit-animation: fadeIn linear 1s;
+    -moz-animation: fadeIn linear 1s;
+    -o-animation: fadeIn linear 1s;
+    -ms-animation: fadeIn linear 1s;
 }
 
 .skills-title{

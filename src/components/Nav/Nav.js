@@ -1,7 +1,7 @@
 import React from "react";
 import './Nav.css';
 import { Link } from 'react-router-dom';
-import Pdf from './JustinPong CV with VASK.pdf';
+import Pdf from "./JustinPong CV with VASK.pdf";
 
 function Nav() {
     return (
