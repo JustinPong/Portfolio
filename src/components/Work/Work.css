@@ -49,3 +49,12 @@ Card.Img{
     -o-animation: fadeIn linear 1s;
     -ms-animation: fadeIn linear 1s;
 }
+
+.not-work{
+    color:red;
+    text-decoration: line-through;
+}
+
+.not-work:hover {
+    text-decoration: line-through;
+}

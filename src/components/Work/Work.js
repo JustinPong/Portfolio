@@ -41,7 +41,7 @@ function Work() {
                     <Card.Body>
                         <Card.Title>Colmar-Academy</Card.Title>
                         <Card.Text className='card-text'>
-                            A responsive website, mini project
+                            Building a responsive website which using html, css, and git skill path.
                         </Card.Text>
                         <a className="work-link" href="https://github.com/JustinPong/Colmar-Academy" variant="primary">Source Code</a><br />
                         <a className="work-link" href="https://justinpong.github.io/Colmar-Academy/" variant="primary">Demo</a>
@@ -54,10 +54,10 @@ function Work() {
                     <Card.Body>
                         <Card.Title>Find Your Hat</Card.Title>
                         <Card.Text className='card-text'>
-                            Building an interactive terminal game by 2D array
+                            Building an interactive terminal game, the player must navigate back to hat without falling down one of the holes or stepping outside of the field.
                         </Card.Text>
                         <a className="work-link" href="https://github.com/JustinPong/find-your-hat" variant="primary">Source Code</a><br />
-                        <a className="work-link" href="#" variant="primary">Demo</a>
+                        <a className="work-link not-work" href="#" variant="primary">Demo</a>
                     </Card.Body>
                 </Card>
                 <Card style={{ width: '18rem' }}>
@@ -68,7 +68,7 @@ function Work() {
                             React and API project
                         </Card.Text>
                         <a className="work-link" href="https://github.com/JustinPong/Ravenous" variant="primary">Source Code</a><br />
-                        <a className="work-link" href="#" variant="primary">Demo</a>
+                        <a className="work-link" href="https://justinpong.github.io/Ravenous/" variant="primary">Demo</a>
                     </Card.Body>
                 </Card>
             </div>
