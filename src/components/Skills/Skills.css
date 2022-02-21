@@ -4,11 +4,12 @@
     margin-left: 30px;
 }
 
-/* .language-logo:hover {
-    height: 170px;
-    margin-left: 0px;
-    overflow:hidden;
-} */
+.language-logo:hover {
+    /* height: 170px; */
+    /* margin-left: 0px; */
+    /* overflow:hidden; */
+    transform: scale(1.5);
+}
 
 .skills-page {
     display:flex;
