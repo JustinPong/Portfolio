@@ -16,7 +16,7 @@
 
 .home{
     display:flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
     margin: 300px auto 0 auto;
     /* margin: auto 0; */
@@ -24,6 +24,7 @@
 
 .home-logo{
     height:300px;
+    margin-left: 50px;
 }
 
 .home-right{
@@ -82,7 +83,6 @@
     .intro{
         font-size: 30px;
     }
-
     .home-logo{
         height: 150px;
     }
