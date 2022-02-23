@@ -14,10 +14,10 @@ function Work() {
         <div className="work-page">
             <Nav />
             <div className="work-page-top">
-                <Card style={{ width: '18rem' }}>
+                <Card className="card" style={{ width: '18rem' }}>
                     <Card.Img className="card-logo" variant="top" src={Jammming} />
                     <Card.Body>
-                        <Card.Title>Jammming</Card.Title>
+                        <Card.Title className="card-title">Jammming</Card.Title>
                         <Card.Text className='card-text'>
                             An education app that will allow users to save songs to a playlist
                         </Card.Text>
@@ -25,7 +25,7 @@ function Work() {
                         <a className="work-link" href="https://justinpong.github.io/Jammming/" variant="primary">Demo</a>
                     </Card.Body>
                 </Card>
-                <Card style={{ width: '18rem' }}>
+                <Card className="card" style={{ width: '18rem' }}>
                     <Card.Img className="card-logo" variant="top" src={todolist} />
                     <Card.Body>
                         <Card.Title>To-Do-List</Card.Title>
@@ -36,7 +36,7 @@ function Work() {
                         <a className="work-link" href="https://justinpong.github.io/react-todo-list/" variant="primary">Demo</a>
                     </Card.Body>
                 </Card>
-                <Card style={{ width: '18rem' }}>
+                <Card className="card" style={{ width: '18rem' }}>
                     <Card.Img className="card-logo" variant="top" src={ColmarAcademy} />
                     <Card.Body>
                         <Card.Title>Colmar-Academy</Card.Title>
@@ -49,18 +49,18 @@ function Work() {
                 </Card>
             </div>
             <div className="work-page-bottom">
-                <Card style={{ width: '18rem' }}>
+                <Card className="card" style={{ width: '18rem' }}>
                     <Card.Img className="card-logo" variant="top" src={FindYourHat} />
                     <Card.Body>
                         <Card.Title>Find Your Hat</Card.Title>
                         <Card.Text className='card-text'>
-                            Building an interactive terminal game, the player must navigate back to hat without falling down one of the holes or stepping outside of the field.
+                            Building an interactive terminal game, the player must navigate back to hat without falling down the holes or stepping outside the field.
                         </Card.Text>
                         <a className="work-link" href="https://github.com/JustinPong/find-your-hat" variant="primary">Source Code</a><br />
                         <a className="work-link not-work" href="#" variant="primary">Demo</a>
                     </Card.Body>
                 </Card>
-                <Card style={{ width: '18rem' }}>
+                <Card className="card" style={{ width: '18rem' }}>
                     <Card.Img className="card-logo" variant="top" src={Ravenous} />
                     <Card.Body>
                         <Card.Title className="card-title">Ravenous</Card.Title>

@@ -1,7 +1,6 @@
 import React from "react";
 import Nav from "../../components/Nav/Nav";
 import './Home.css';
-import Button from 'react-bootstrap/Button';
 import coding from './coding.png';
 
 function Home() {

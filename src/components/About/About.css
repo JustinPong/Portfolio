@@ -34,6 +34,30 @@
     -ms-animation: fadeIn linear 1s;
 }
 
-/* .about-page{
-    overflow: hidden;
-} */
+@media screen and (max-width: 1200px) {
+    .about-title{
+        font-size: 40px;
+    }
+
+    .about{
+        font-size: 20px;
+    }
+
+    .about-right{
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 800px){
+    .about-title{
+        font-size: 30px;
+    }
+
+    .about{
+        font-size: 15px;
+    }
+
+    .about-right{
+        height: 100px;
+    }
+}
