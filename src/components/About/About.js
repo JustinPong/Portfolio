@@ -16,9 +16,9 @@ function About() {
                         I have a serious passion for web developing,
                         designing and programming.<br /> Also hungry for challenges and yearning to put my brains to the test.<br />
                         <br />
-                        I am addicted in the entire frontend spectrum and <br />
-                        working on ambitious projects with positive people. <br />
-                        Are you interested in working on something awesome together? 
+                        I am ethusiastic in the entire frontend spectrum and <br />
+                        working on ambitious projects with other frontend lovers. <br />
+                        Are you ready to working on something awesome together? 
                     </h3>
                 </div>
                 <img 
