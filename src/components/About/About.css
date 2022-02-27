@@ -5,7 +5,7 @@
 }
 
 .about-me{
-    margin: 250px 0 0 20px;
+    margin: 250px 0 auto 20px;
     display: flex;
     justify-content: space-around;
 }
@@ -34,7 +34,7 @@
     -ms-animation: fadeIn linear 1s;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1300px) {
     .about-title{
         font-size: 40px;
     }
@@ -45,6 +45,10 @@
 
     .about-right{
         height: 200px;
+    }
+
+    .about-me{
+        margin: 200px 0 auto 20px;
     }
 }
 
