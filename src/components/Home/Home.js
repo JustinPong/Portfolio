@@ -12,7 +12,7 @@ function Home() {
                     <h1 className="intro">
                         Hi there,<br />
                         I'm <font style={{ color: "rgb(6,217,158)" }}>Justin</font>,<br />
-                        a junior web developer
+                        a Junior Web Developer
                     </h1>
                 </div>
                 <div className="home-right" >
