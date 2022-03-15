@@ -8,6 +8,7 @@ import todolist from './To-Do-List.png';
 import ColmarAcademy from './ColmarAcademy.png';
 import FindYourHat from './FindYourHat.png';
 import Ravenous from './Ravenous.png';
+import Wordle from './Wordle.png';
 
 function Work() {
     return (
@@ -61,6 +62,17 @@ function Work() {
                     </Card.Body>
                 </Card>
                 <Card className="card" style={{ width: '18rem' }}>
+                    <Card.Img className="card-logo" variant="top" src={Wordle} />
+                    <Card.Body>
+                        <Card.Title className="card-title">Wordle</Card.Title>
+                        <Card.Text className='card-text'>
+                        Build a famous word game "Wordle"
+                        </Card.Text>
+                        <a className="work-link" href="https://github.com/JustinPong/Wordle-Clone" variant="primary">Source Code</a><br />
+                        <a className="work-link" href="https://justinpong.github.io/Wordle-Clone/" variant="primary">Demo</a>
+                    </Card.Body>
+                </Card>
+                <Card className="card" style={{ width: '18rem' }}>
                     <Card.Img className="card-logo" variant="top" src={Ravenous} />
                     <Card.Body>
                         <Card.Title className="card-title">Ravenous</Card.Title>
@@ -71,6 +83,7 @@ function Work() {
                         <a className="work-link not-work" href="#" variant="primary">Demo</a>
                     </Card.Body>
                 </Card>
+
             </div>
         </div>
     )
