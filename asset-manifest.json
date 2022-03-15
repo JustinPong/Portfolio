@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5b99c419.css",
-    "main.js": "/Portfolio/static/js/main.ee0be8c9.js",
+    "main.js": "/Portfolio/static/js/main.08f64e1f.js",
     "static/media/coding.png": "/Portfolio/static/media/coding.65f3692715a40b0e4ee3.png",
     "static/media/CSS.png": "/Portfolio/static/media/CSS.75637854ae9526feeec9.png",
-    "static/media/Ravenous.png": "/Portfolio/static/media/Ravenous.bbd970a9c0979c2bbd49.png",
+    "static/media/Ravenous.png": "/Portfolio/static/media/Ravenous.e773e26339ebb5007d56.png",
     "static/media/Jammming.png": "/Portfolio/static/media/Jammming.1293403b796d88092ac6.png",
     "static/media/ColmarAcademy.png": "/Portfolio/static/media/ColmarAcademy.6d271a173a672eb8952c.png",
     "static/media/How-to-become-a-Full-Stack-Web-Developer--451x300.png": "/Portfolio/static/media/How-to-become-a-Full-Stack-Web-Developer--451x300.13f1d9e0d46b404f74d8.png",
@@ -17,10 +17,10 @@
     "static/media/Bootstrap.png": "/Portfolio/static/media/Bootstrap.fd3cb129782ecd201164.png",
     "index.html": "/Portfolio/index.html",
     "main.5b99c419.css.map": "/Portfolio/static/css/main.5b99c419.css.map",
-    "main.ee0be8c9.js.map": "/Portfolio/static/js/main.ee0be8c9.js.map"
+    "main.08f64e1f.js.map": "/Portfolio/static/js/main.08f64e1f.js.map"
   },
   "entrypoints": [
     "static/css/main.5b99c419.css",
-    "static/js/main.ee0be8c9.js"
+    "static/js/main.08f64e1f.js"
   ]
 }
