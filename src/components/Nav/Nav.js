@@ -1,7 +1,7 @@
 import React from "react";
 import './Nav.css';
 import { Link } from 'react-router-dom';
-import Pdf from "./JustinPong CV with VASK.pdf";
+import Pdf from "./JustinPong CV.pdf";
 
 function Nav() {
     return (
@@ -20,7 +20,6 @@ function Nav() {
                 <Link to="/skills" className="link">Skills</Link>
                 <Link to="/work" className="link">Work</Link>
                 <a href={Pdf} className="link">Resume</a>
-                {/* <Link to="/contact" className="link">Contact</Link> */}
             </div>
         </div>
     )
