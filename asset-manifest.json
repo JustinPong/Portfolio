@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5b99c419.css",
-    "main.js": "/Portfolio/static/js/main.08f64e1f.js",
+    "main.js": "/Portfolio/static/js/main.917bc6ad.js",
     "static/media/coding.png": "/Portfolio/static/media/coding.65f3692715a40b0e4ee3.png",
     "static/media/CSS.png": "/Portfolio/static/media/CSS.75637854ae9526feeec9.png",
     "static/media/Ravenous.png": "/Portfolio/static/media/Ravenous.e773e26339ebb5007d56.png",
@@ -12,15 +12,15 @@
     "static/media/HTML.png": "/Portfolio/static/media/HTML.cae445506dcd734ac944.png",
     "static/media/React.png": "/Portfolio/static/media/React.d1d003618737e62bb2df.png",
     "static/media/Git.png": "/Portfolio/static/media/Git.140fa4d62c3584333da4.png",
-    "static/media/JustinPong CV with VASK.pdf": "/Portfolio/static/media/JustinPong CV with VASK.0e4ec263604498485517.pdf",
+    "static/media/JustinPong CV.pdf": "/Portfolio/static/media/JustinPong CV.07ce84d68fd136079c8b.pdf",
     "static/media/FindYourHat.png": "/Portfolio/static/media/FindYourHat.08467fab57707de75228.png",
     "static/media/Bootstrap.png": "/Portfolio/static/media/Bootstrap.fd3cb129782ecd201164.png",
     "index.html": "/Portfolio/index.html",
     "main.5b99c419.css.map": "/Portfolio/static/css/main.5b99c419.css.map",
-    "main.08f64e1f.js.map": "/Portfolio/static/js/main.08f64e1f.js.map"
+    "main.917bc6ad.js.map": "/Portfolio/static/js/main.917bc6ad.js.map"
   },
   "entrypoints": [
     "static/css/main.5b99c419.css",
-    "static/js/main.08f64e1f.js"
+    "static/js/main.917bc6ad.js"
   ]
 }
